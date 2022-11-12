@@ -27,7 +27,7 @@ O diagrama do projeto do banco de dados é apresentado a seguir:
 
 ## Projeto lógico
 
-O segundo passo do projeto foi desenvolver o scrip de criação do banco de dados. 
+O segundo passo do projeto foi desenvolver o script de criação do banco de dados. 
 Esse script está disponível no repositório.
 
 ```sql
